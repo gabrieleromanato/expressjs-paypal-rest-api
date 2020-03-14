@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#paypal-form {
+    max-width: 400px;
+    padding: 0 1em;
+    margin: 5% auto;
+}
